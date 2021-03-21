@@ -12,12 +12,16 @@ There were 2,375 rides that generated $63,537 over the time period studied.  Tha
 
 
 #### Summary Results
+
 Chart insert.
+[title](https://www.example.com)
+
 It is clearly shown in the ride summary table that the company’s business is driven (pun intended) by its Urban business.   The Urban locations produce the highest number of rides and fares.    However, it also has the highest number of drivers.   This drives down the average fare per driver over the 2 location types measured.   This is not such great news for the driver population operating in the Urban locations.
 
 
 #### Focused Time Period
 When the ride data was charted over the first 4 months of 2019 there were some very clear trends identified.
+
 Insert chart
 
 -	Ride volume stays the same for much of that time.    While there is some spiking in certain times of the month, ridership varies within 500 rides (more or less) in any given week all month long in each of the 3 city types.   The fact that the Rural city type never has more than 500 rides per week in any given month should also be noted when in relation to the other 2 city types.
