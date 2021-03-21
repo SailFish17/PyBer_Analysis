@@ -13,6 +13,11 @@ There were 2,375 rides that generated $63,537 over the time period studied.  Tha
 
 #### Summary Results
 
+![alt text](image.jpg)
+
+![Ride and Fare Summary Table](https://github.com/SailFish17/PyBer_Analysis/blob/main/analysis/pyber%20summary%20df.png)
+
+
 [Ride and Fare Summary Table](https://github.com/SailFish17/PyBer_Analysis/blob/main/analysis/pyber%20summary%20df.png)
 
 It is clearly shown in the ride summary table that the company’s business is driven (pun intended) by its Urban business.   The Urban locations produce the highest number of rides and fares.    However, it also has the highest number of drivers.   This drives down the average fare per driver over the 2 location types measured.   This is not such great news for the driver population operating in the Urban locations.
